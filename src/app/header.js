@@ -156,7 +156,7 @@ class Header extends React.Component {
 									</Tooltip>
 								</div>
 
-								{__('Welcome to')} ROTB! {__('This is file search engine based on the torrents from the internet')}. 
+								{__('Welcome to Local Torrent')} {__('This is file search engine based on the torrents from the internet')}. 
 								{__('Here you can easily find torrent or file that you intrested for')}. {__('We are not responsible for any content')}:
 								{__('this is only information about content that collected automatically')}!
 							</div>} />}
