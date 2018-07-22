@@ -5,7 +5,7 @@ let config = {
 	indexer: true,
 
 	domain: 'search.24x7files.com',
-	httpPort: 7610,
+	httpPort: 8095,
 	spiderPort: 4445,
 	udpTrackersPort: 4446,
 	udpTrackersTimeout: 3 * 60 * 1000,
