@@ -4,8 +4,8 @@ const os = require('os')
 let config = {
 	indexer: true,
 
-	domain: 'ratsontheboat.org',
-	httpPort: 8095,
+	domain: 'search.24x7files.com',
+	httpPort: 7610,
 	spiderPort: 4445,
 	udpTrackersPort: 4446,
 	udpTrackersTimeout: 3 * 60 * 1000,
