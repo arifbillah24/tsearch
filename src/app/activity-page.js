@@ -6,7 +6,7 @@ import RecentTorrents from './recent-torrents'
 export default class ActivityPage extends Page {
 	constructor(props) {
 		super(props)
-		this.setTitle('Rats On The Boat - Content Search Engine');
+		this.setTitle('Local Torrent - Content Search Engine');
 	}
 	render() {
 		return (
