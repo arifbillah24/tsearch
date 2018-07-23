@@ -9,7 +9,7 @@ import MenuItem from 'material-ui/MenuItem';
 export default class SearchPage extends Page {
 	constructor(props) {
 		super(props)
-		this.setTitle('Rats On The Boat - Content Search Engine');
+		this.setTitle('Local Torrent - Content Search Engine');
 	}
 	componentDidMount()
 	{
