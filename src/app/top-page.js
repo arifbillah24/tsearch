@@ -14,7 +14,7 @@ import _ from 'lodash'
 export default class TopPage extends Page {
 	constructor(props) {
 		super(props)
-		this.setTitle('Rats On The Boat - Torrents top');
+		this.setTitle('Local Torrent - Torrents top');
 		this.topTorrents = {};
 		this.types = ['main', 'video', 'audio', 'books', 'pictures', 'application', 'archive']
 		this.descriptions = {
